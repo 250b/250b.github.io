@@ -1,4 +1,4 @@
-title: Long Haul
+title: BORI
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://long-haul.netlify.app
@@ -22,11 +22,9 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: 250b
+  instagram: 250b_
+  email: bohhh_@gmail.com
 
 google_analytics: "UA-58263416-1"
 
