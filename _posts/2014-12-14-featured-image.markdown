@@ -10,19 +10,19 @@ image: keyboard.gif
 <p class="gittext">해당 파일들의 작업을 조율하기 위한 분산 버전 관리 시스템</p>
 <br><br><br>
 <p class="intro"><span class="dropcap"></span>Github이란?<p>
-<p class="gittext">GitHub은 Git을 기반으로 소스 코드를 호스팅 하고, 협업 지원 기능들을</p>
-<p class="gittext">지원하는 마이크로소프트Microsoft의 웹서비스</p>
+<p class="gittext">GitHub은 Git을 기반으로 소스 코드를 호스팅 하고,</p>
+<p class="gittext">협업 지원 기능들을 지원하는 웹서비스</p>
 <br><br><br>
 <p class="intro"><span class="dropcap"></span>Github 사용해보기!<p>
 <br>
 <p class="firstpost">
     <ol>
-        <li>Git 설치하기
+        <li class="list">Git 설치하기
             <p> </p>
             <p class="top">설치 후 cmd창을 열어서 git --version을 입력</p>
             <p class="botton">잘 나온다면 설치 성공!</p>
         </li>
-        <li>Github계정 & Repository 생성하기
+        <li class="list">Github계정 & Repository 생성하기
             <p> </p>
             <p> </p>
             <p><img src="/assets/img/repository.JPG" alt=""><P>
@@ -37,7 +37,7 @@ image: keyboard.gif
             <br>
             <p>아래 Initialize this repository with a README는</p>
             <p class="botton">README.md 파일을 생성할 것인지를 물어보는 것</p>
-        <li >원격저장소와 로컬저장소 연결하기
+        <li class="list">원격저장소와 로컬저장소 연결하기
             <p> </p>
             <p class="top">로컬저장소의 경로를 정해 cd 명령어로 이동</p>
             <p><img src="/assets/img/clone.JPG" alt=""><P>
