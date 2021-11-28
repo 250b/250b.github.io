@@ -31,8 +31,8 @@ image: keyboard.gif
             <p class="bottom">Repository name을 입력한 후,</p>
             <br>
             <p class="bottom">누구나 볼 수 있는 public 으로 생성할 것인지,</p>
-            <p>자신과 자신이 설정한 사람만 볼 수 있는 private으로</p>
-            <p>생성할 것인지 선택</p>
+            <p>자신과 자신이 설정한 사람만 볼 수 있는</p>
+            <p>private으로 생성할 것인지 선택</p>
             <br>
             <p>아래 Initialize this repository with a README는</p>
             <p class="bottom">README.md 파일을 생성할 것인지를 물어보는 것</p>
