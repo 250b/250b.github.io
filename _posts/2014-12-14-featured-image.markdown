@@ -18,7 +18,7 @@ image: keyboard.gif
     <ol>
         <li class="list">Git 설치하기
             <p> </p>
-            <p>설치 후 cmd창을 열어서 git --version을 입력</p>
+            <p>설치 후 cmd창을 열어 git --version을 입력</p>
             <p>잘 나온다면 설치 성공!</p>
             <br><br>
         </li>
