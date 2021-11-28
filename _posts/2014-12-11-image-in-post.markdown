@@ -4,9 +4,9 @@ title:  "First Post"
 date:   2021-11-28
 ---
 
-<p class="intro"><span class="dropcap">L</span>This is My First Post</p>
+<p class="intro"><span class="dropcap">L</span>Welcome to my github blog</p>
 
-Welcome to my github blog.
+
 
 <img src="/assets/img/cute.jfif" alt=""> 
 
