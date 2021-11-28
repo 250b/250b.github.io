@@ -2,7 +2,7 @@
 layout: post
 title:  "Git & Github"
 date:   2014-11-28
-image: github.jpg
+image: computer.jpg
 ---
 
 <p class="intro"><span class="dropcap"></span>Git이란?<p>
