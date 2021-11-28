@@ -20,7 +20,7 @@ image: keyboard.gif
             <p> </p>
             <p class="top">설치 후 cmd창을 열어서 git --version을 입력<p>
             <p class="botton">잘 나온다면 설치 성공!<p>
-        </li>
+        <li>
         <li class="list">Github계정 & Repository 생성하기
             <p> </p>
             <p> </p>
@@ -36,20 +36,22 @@ image: keyboard.gif
             <br>
             <p>아래 Initialize this repository with a README는<p>
             <p class="botton">README.md 파일을 생성할 것인지를 물어보는 것<p>
+        <li>
         <li class="list">원격저장소와 로컬저장소 연결하기
             <p> </p>
             <p class="top">로컬저장소의 경로를 정해 cd 명령어로 이동<p>
             <p><img src="/assets/img/clone.JPG" alt=""><p>
             <p>위에 보이는 원격저장소 주소를 복사해<p>
             <p class="botton">cmd에 'git clone 원격저장소 주소'를 입력<p>
+        <li>
 <br><br><br>
 <div class="gittext">
     <p>이러면<p>
     <p>.<p>
     <p>.<p>
     <p>.<p>
-</div>
-<p> </p>
+<div>
+<p> <p>
 <p class="intro"><span class="dropcap"></span>Github 사용준비 끝!<p>
 <p class="intro"><span class="dropcap"></span>브랜치<p>
 <p class="firstpost">I created a blog through github pages with a repositiory 'github.io'.<p>
