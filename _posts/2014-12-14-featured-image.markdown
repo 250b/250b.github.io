@@ -18,10 +18,10 @@ image: keyboard.gif
             <br>
         </li>
         <li>Github계정 & Repository 생성하기
-            <P><img src="/assets/img/repository.jpg" alt=""><P>
+            <P><img src="/assets/img/repository.JPG" alt=""><P>
             <p>초록색 new 버튼 클릭</p>
             <br>
-            <P><img src="/assets/img/create.jpg" alt=""><P>
+            <P><img src="/assets/img/create.JPG" alt=""><P>
             <p>Repository name을 입력한 후,</p>
             <p>누구나 볼 수 있는 public 으로 생성할 것인지, 자신과 자신이 설정한 사람만 볼 수 있는 private으로 생성할 것인지 선택</p>
             <p>아래 Initialize this repository with a README는 README.md 파일을 생성할 것인지를 물어보는 것</p>
@@ -29,7 +29,7 @@ image: keyboard.gif
         </li>
         <li>원격저장소와 로컬저장소 연결하기
             <p>로컬저장소의 경로를 정해 cd 명령어로 이동</p>
-            <P><img src="/assets/img/clone.jpg" alt=""><P>
+            <P><img src="/assets/img/clone.JPG" alt=""><P>
             <p>위에 보이는 원격저장소 주소를 복사해</p>
             <p>cmd에 'git clone 원격저장소 주소'를 입력</p>
         </li>
