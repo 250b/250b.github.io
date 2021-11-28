@@ -47,7 +47,6 @@ image: keyboard.gif
         <p>위에 보이는 원격저장소 주소를 복사해</p>
         <p>cmd에 'git clone 원격저장소 주소'를 입력</p>    
 <br><br><br><br>
-</ol>
 <div class="gittext">   
     <p>.</p>
     <p>.</p>
