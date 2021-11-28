@@ -55,6 +55,6 @@ image: keyboard.gif
     <p>이러면</p>
 </div>
 <p> </p>
-<p class="intro"><span class="dropcap"></span>Github 사용준비 끝!<p>
+<p class="rmx">Github 사용준비 끝!<p>
 <p class="intro"><span class="dropcap"></span>브랜치<p>
 <p class="firstpost">I created a blog through github pages with a repositiory 'github.io'.<p>
