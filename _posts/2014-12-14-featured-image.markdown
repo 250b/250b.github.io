@@ -15,8 +15,7 @@ image: keyboard.gif
 <br><br><br>
 <p class="intro"><span class="dropcap"></span>Github 사용해보기!<p>
 <br>
-<p class="firstpost">
-    <ol>
+    <ol class="list">
         <li class="list">Git 설치하기
             <p> </p>
             <p class="top">설치 후 cmd창을 열어서 git --version을 입력</p>
@@ -47,7 +46,7 @@ image: keyboard.gif
 <p class="gittext">이러면</p>
 <p class="gittext">.</p>
 <p class="gittext">.</p>
-<p class="botton">.</p>
+<p class="gittext", class="botton">.</p>
 <p> </p>
 <p class="intro"><span class="dropcap"></span>Github 사용준비 끝!<p>
 <p class="intro"><span class="dropcap"></span>브랜치<p>
