@@ -43,10 +43,12 @@ image: keyboard.gif
             <p>위에 보이는 원격저장소 주소를 복사해</p>
             <p class="botton">cmd에 'git clone 원격저장소 주소'를 입력</p>
 <br><br><br>
-<p class="gittext">이러면</p>
-<p class="gittext">.</p>
-<p class="gittext">.</p>
-<p class="gittext", class="botton">.</p>
+<div class="gittext">
+    <p>이러면</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+</div>
 <p> </p>
 <p class="intro"><span class="dropcap"></span>Github 사용준비 끝!<p>
 <p class="intro"><span class="dropcap"></span>브랜치<p>
