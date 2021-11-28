@@ -14,7 +14,7 @@ image: keyboard.gif
 <p class="gittext">협업 지원 기능들을 지원하는 웹서비스</p>
 <br><br><br>
 <p class="intro">Github 사용해보기!<p>
-<ol id="listtitle">
+<ol id="listcenter">
     <li class="list"><p class="listtitle">Git 설치하기</p>    
     <p> </p>
         <p>설치 후 cmd창을 열어 git --version을 입력</p>
