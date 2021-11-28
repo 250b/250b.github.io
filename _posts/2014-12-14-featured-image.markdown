@@ -15,13 +15,13 @@ image: keyboard.gif
 <br><br><br>
 <p class="intro">Github 사용해보기!<p>
     <ol>
-        <li class="list">Git 설치하기
+        <li class="list"><p class="listtitle">Git 설치하기</p>
             <p> </p>
             <p>설치 후 cmd창을 열어 git --version을 입력</p>
             <p>잘 나온다면 설치 성공!</p>
             <br>
         </li>
-        <li class="list">Github계정 & Repository 생성하기
+        <li class="list"><p class="listtitle">Github계정 & Repository 생성하기</p>
             <p> </p>
             <br><br>
             <p><img src="/assets/img/repository.JPG" alt=""><P>
@@ -39,7 +39,7 @@ image: keyboard.gif
             <p>아래 Initialize this repository with a README는</p>
             <p>README.md 파일을 생성할 것인지를 물어보는 것</p>
             <br><br>
-        <li class="list">원격저장소와 로컬저장소 연결하기
+        <li class="list"><p class="listtitle">원격저장소와 로컬저장소 연결하기</P>
             <p> </p>
             <br><br>
             <p>로컬저장소의 경로를 정해 cd 명령어로 이동</p>
