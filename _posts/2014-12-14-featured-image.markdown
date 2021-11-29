@@ -45,7 +45,8 @@ image: keyboard.gif
         <p>로컬저장소의 경로를 정해 cd 명령어로 이동</p>
         <p><img src="/assets/img/clone.JPG" alt=""></p>
         <p>위에 보이는 원격저장소 주소를 복사해</p>
-        <p>cmd에 'git clone 원격저장소 주소'를 입력</p>    
+        <p>cmd에 'git clone 원격저장소 주소'를 입력</p>  
+</ol>  
 <br><br><br><br>
 <div class="gittext">   
     <p>.</p>
