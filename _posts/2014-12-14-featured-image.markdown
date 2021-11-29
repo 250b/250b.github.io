@@ -14,48 +14,49 @@ image: keyboard.gif
 <p class="gittext">협업 지원 기능들을 지원하는 웹서비스</p>
 <br><br><br>
 <p class="intro">Github 사용해보기!<p>
-<ol class="listcenter">
-    <li class="list"><p class="listtitle">Git 설치하기</p>    
-    <p> </p>
-        <p>설치 후 cmd창을 열어 git --version을 입력</p>
-        <p>잘 나온다면 설치 성공!</p>
-        <br><br><br>        
-    </li>
-    <li class="list"><p class="listtitle">Github계정 & Repository 생성하기</p>
-        <p> </p>
-        <br>
-        <p><img src="/assets/img/repository.JPG" alt=""><p>
-        <p>초록색 new 버튼 클릭</p>
-        <br><br><br><br>
-        <p><img src="/assets/img/create.JPG" alt=""></p>
-        <p>Repository name을 입력한 후,</p>
-        <br><br>
-        <div id="public">
-            <p>누구나 볼 수 있는 public 으로 생성할 것인지,</p>
-            <p>자신과 자신이 설정한 사람만 볼 수 있는</p>
-            <p>private으로 생성할 것인지 선택</p>
-        <div>
-        <br><br>
-        <p>아래 Initialize this repository with a README는</p>
-        <p>README.md 파일을 생성할 것인지를 물어보는 것</p>
-        <br><br><br><br>
-    <li class="list"><p class="listtitle">원격저장소와 로컬저장소 연결하기</p>
-        <p> </p>
-        <br>
-        <p>로컬저장소의 경로를 정해 cd 명령어로 이동</p>
-        <p><img src="/assets/img/clone.JPG" alt=""></p>
-        <p>위에 보이는 원격저장소 주소를 복사해</p>
-        <p>cmd에 'git clone 원격저장소 주소'를 입력</p>  
-        <br><br><br><br>
-        <div class="gittext">   
-            <p>.</p>
-            <p>.</p>
-            <p>.</p>
-            <p>이러면</p>
-        </div>
-        <p> </p>
-        <p class="rmx">Github 사용준비 끝!<p>
-        <br><br><br>
-    <li class="list"><p class="listtitle">원격저장소와 로컬저장소 연결하기</p>
-    
+<p class="list"><p class="listtitle">1. Git 설치하기</p></p> 
+<p> </p>    
+<p>설치 후 cmd창을 열어 git --version을 입력</p>
+<p>잘 나온다면 설치 성공!</p>
+<br><br><br>        
+<p class="list"><p class="listtitle">2. Github계정 & Repository 생성하기</p></p>
+<p> </p>
+<br>
+<p><img src="/assets/img/repository.JPG" alt=""><p>
+<p>초록색 new 버튼 클릭</p>
+<br><br><br><br>
+<p><img src="/assets/img/create.JPG" alt=""></p>
+<p>Repository name을 입력한 후,</p>
+<br><br>
+<div id="public">
+    <p>누구나 볼 수 있는 public 으로 생성할 것인지,</p>
+    <p>자신과 자신이 설정한 사람만 볼 수 있는</p>
+    <p>private으로 생성할 것인지 선택</p>
+<div>
+<br><br>
+<p>아래 Initialize this repository with a README는</p>
+<p>README.md 파일을 생성할 것인지를 물어보는 것</p>
+<br><br><br><br>
+<p class="list"><p class="listtitle">3. 원격저장소와 로컬저장소 연결하기</p></p>
+<p> </p>
+<br>
+<p>로컬저장소의 경로를 정해 cd 명령어로 이동</p>
+<p><img src="/assets/img/clone.JPG" alt=""></p>
+<p>위에 보이는 원격저장소 주소를 복사해</p>
+<p>cmd에 'git clone 원격저장소 주소'를 입력</p>  
+<br><br><br><br>
+<div class="gittext">   
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>이러면</p>
+</div>
+<p> </p>
+<p class="rmx">Github 사용준비 끝!<p>
+<p><img src="/assets/img/github.pnG" alt=""></p>    
+<br>
+<p class="list"><p class="listtitle">4. 파일을 인덱스에 추가</p></p>
+<p>로컬저장소의 파일을 'git add 파일명' 명령으로 인덱스에 추가</p>
+<p>인덱스는 저장소에 커밋을 할 준비를 하기위해 변경 내용을 임시로 저장할 위치</p>
+<p class="list"><p class="listtitle">4. 파일을 인덱스에 추가</p></p>
 
