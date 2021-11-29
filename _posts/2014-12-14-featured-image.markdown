@@ -22,10 +22,10 @@ image: keyboard.gif
 <p class="list"><p class="listtitle">2. Github계정 & Repository 생성하기</p></p>
 <p> </p>
 <br>
-<p class="pictur"><img src="/assets/img/repository.JPG" alt=""><p>
+<p class="picture"><img src="/assets/img/repository.JPG" alt=""><p>
 <p class="gittext">초록색 new 버튼 클릭</p>
 <br><br><br><br>
-<p class="pictur"><img src="/assets/img/create.JPG" alt=""></p>
+<p class="picture"><img src="/assets/img/create.JPG" alt=""></p>
 <p class="gittext">Repository name을 입력한 후,</p>
 <br><br>
 <p class="gittext">누구나 볼 수 있는 public 으로 생성할 것인지,</p>
@@ -51,8 +51,8 @@ image: keyboard.gif
 </div>
 <p> </p>
 <p class="rmx">Github 사용준비 끝!<p>
-<p class="pictur"><img src="/assets/img/github.png" alt=""></p>    
-<br>
+<br><br>
+<p class="picture"><img src="/assets/img/github.png" alt=""></p>    
 <p class="list"><p class="listtitle">4. 파일의 생성/ 변경/ 삭제를 git 인덱스에 추가</p></p>
 <p class="gittext">로컬저장소의 파일을 'git add 파일명' 명령으로 인덱스에 추가</p>
 <p class="gittext">git 인덱스=</p>
