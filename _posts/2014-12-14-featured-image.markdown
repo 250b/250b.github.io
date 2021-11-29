@@ -39,14 +39,14 @@ image: keyboard.gif
 <p> </p>
 <br>
 <p class="gittext">로컬저장소의 경로를 정해 cd 명령어로 이동</p>
-<p class="pictur"><img src="/assets/img/clone.JPG" alt=""></p>
+<p class="picture"><img src="/assets/img/clone.JPG" alt=""></p>
 <p class="gittext">위에 보이는 원격저장소 주소를 복사해</p>
 <p class="gittext">cmd에 'git clone 원격저장소 주소'를 입력</p>  
 <br><br><br><br>
 <div class="gittext">   
-    <p>.</p>
-    <p>.</p>
-    <p>.</p>
+    <p class="rmx">.</p>
+    <p class="rmx">.</p>
+    <p class="rmx">.</p>
     <p>이러면</p>
 </div>
 <p> </p>
