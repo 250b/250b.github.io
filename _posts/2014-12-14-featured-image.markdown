@@ -69,7 +69,7 @@ image: keyboard.gif
 <p class="rmx">.</p>
 <p class="rmx">.</p>
 <p class="gittext">그렇다면</p>
-<p class="rmx"><p class="branch">Branch란?<p></p>
+<p class="rmx"><p id="branch">Branch란?<p></p>
 <p class="gittext">Git에서 branch는 독립적인 Working Directory 를 의미</p>
 <p class="gittext">현재의 버전으로 다른 버전</p>
 <p class="gittext">(기존 코드를 복사해와 완전히 새로운 독립 공간을 만듬)을</p>
