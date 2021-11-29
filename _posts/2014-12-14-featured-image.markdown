@@ -22,10 +22,10 @@ image: keyboard.gif
 <p class="list"><p class="listtitle">2. Github계정 & Repository 생성하기</p></p>
 <p> </p>
 <br>
-<p><img src="/assets/img/repository.JPG" alt=""><p>
+<p class="pictur"><img src="/assets/img/repository.JPG" alt=""><p>
 <p class="gittext">초록색 new 버튼 클릭</p>
 <br><br><br><br>
-<p><img src="/assets/img/create.JPG" alt=""></p>
+<p class="pictur"><img src="/assets/img/create.JPG" alt=""></p>
 <p class="gittext">Repository name을 입력한 후,</p>
 <br><br>
 <p class="gittext">누구나 볼 수 있는 public 으로 생성할 것인지,</p>
@@ -39,7 +39,7 @@ image: keyboard.gif
 <p> </p>
 <br>
 <p class="gittext">로컬저장소의 경로를 정해 cd 명령어로 이동</p>
-<p><img src="/assets/img/clone.JPG" alt=""></p>
+<p class="pictur"><img src="/assets/img/clone.JPG" alt=""></p>
 <p class="gittext">위에 보이는 원격저장소 주소를 복사해</p>
 <p class="gittext">cmd에 'git clone 원격저장소 주소'를 입력</p>  
 <br><br><br><br>
@@ -51,14 +51,14 @@ image: keyboard.gif
 </div>
 <p> </p>
 <p class="rmx">Github 사용준비 끝!<p>
-<p><img src="/assets/img/github.pnG" alt=""></p>    
+<p class="pictur"><img src="/assets/img/github.png" alt=""></p>    
 <br>
 <p class="list"><p class="listtitle">4. 파일의 생성/ 변경/ 삭제를 git 인덱스에 추가</p></p>
 <p class="gittext">로컬저장소의 파일을 'git add 파일명' 명령으로 인덱스에 추가</p>
-<p class="gittext">인덱스는 저장소에 커밋을 할 준비를 하기위해 변경 내용을 임시로 저장할 위치</p>
+<p class="gittext">git 인덱스=</p>
+<p class="gittext">저장소에 커밋을 할 준비를 하기위해 변경 내용을 임시로 저장할 위치</p>
 <br><br><br>
 <p class="list"><p class="listtitle">5. 변경 결과를 로컬 저장소에 커밋</p></p>
-<p class="gittext">git 인덱스=</p>
 <p class="gittext">추가 된 파일을 'git commit -m "~~~~" 명령을 사용해 커밋</p>
 <br><br><br>
 <p class="list"><p class="listtitle">6. 원격저장소에 반영</p></p>
