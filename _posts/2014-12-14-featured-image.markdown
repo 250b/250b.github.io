@@ -55,7 +55,7 @@ image: keyboard.gif
 <p class="picture"><img src="/assets/img/github.png" alt=""></p>    
 <p class="list"><p class="listtitle">4. 파일의 생성/ 변경/ 삭제를 git 인덱스에 추가</p></p>
 <p class="gittext">로컬저장소의 파일을 'git add 파일명' 명령으로 인덱스에 추가</p>
-<p class="gittext">git 인덱스=</p>
+<p class="gittext">git 인덱스==</p>
 <p class="gittext">저장소에 커밋을 할 준비를 하기위해 변경 내용을 임시로 저장할 위치</p>
 <br><br><br>
 <p class="list"><p class="listtitle">5. 변경 결과를 로컬 저장소에 커밋</p></p>
@@ -64,3 +64,13 @@ image: keyboard.gif
 <p class="list"><p class="listtitle">6. 원격저장소에 반영</p></p>
 <p class="gittext">'git push origin master' 명령을 사용해</p>
 <p class="gittext">로컬저장소의 변경 사항을 Github의 원격저장소에 반영</p>
+<br><br><br>
+<p class="gittext">그렇다면</p>
+<p class="rmx">Branch란?<p>
+<p class="gittext">Git에서 브랜치는 독립적인 Working Directory 를 의미</p>
+<p class="gittext">현재의 버전으로 다른 버전</p>
+<p class="gittext">(기존 코드를 복사해와 완전히 새로운 독립 공간을 만듬)을</p>
+<p class="gittext">만들어서 가지를 쳐보는 것</p>
+<p class="gittext">여러가지 버전의 브랜치를 만들고 합치는 식으로 작업</p>
+<p class="gittext">분기를 만드는 브랜치 생성을 통해 동일한 소스코드를 기반으로</p>
+<p class="gittext">서로 다른 버전을 만들거나, 서로 다른 작업을 할 수 있음</p>
