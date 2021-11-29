@@ -64,12 +64,12 @@ image: keyboard.gif
 <p class="list"><p class="listtitle">6. 원격저장소에 반영</p></p>
 <p class="gittext">'git push origin master' 명령을 사용해</p>
 <p class="gittext">로컬저장소의 변경 사항을 Github의 원격저장소에 반영</p>
-<br><br><br>
+<br><br><br><br><br>
 <p class="rmx">.</p>
 <p class="rmx">.</p>
 <p class="rmx">.</p>
 <p class="gittext">그렇다면</p>
-<p class="rmx">Branch란?<p>
+<p class="rmx"><p class="branch">Branch란?<p></p>
 <p class="gittext">Git에서 branch는 독립적인 Working Directory 를 의미</p>
 <p class="gittext">현재의 버전으로 다른 버전</p>
 <p class="gittext">(기존 코드를 복사해와 완전히 새로운 독립 공간을 만듬)을</p>
