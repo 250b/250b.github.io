@@ -4,7 +4,7 @@ title:  "Markdown"
 date:   2021-12-1
 ---
 
-
+<br><br>
 <p class="intro">Markdown이란?<p>
 <p class="gittext">Markdown은 텍스트 기반의 마크업언어로</p>
 <p class="gittext">쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능</p>
@@ -48,6 +48,7 @@ date:   2021-12-1
 <br><br><br>
 <p class="list"><p class="listtitle">3. 코드 - code</p></p> 
 <p> </p> 
+<br>
 <p class="gittext">` (Grave)문자를 입력해서 본문의 내용중 코드강조 처리 가능</p>   
 <br>
 <p class="gittext">`<abbr>`요소를 대신 사용하십시오.</p>
