@@ -52,7 +52,7 @@ date:   2021-12-1
 <br>
 <p class="gittext">`<abbr>`요소를 대신 사용하십시오.</p>
 <br>
-<p class="picture"><img src="/assets/img/font.JPG" alt=""><p>
+<p class="picture"><img src="/assets/img/code.JPG" alt=""><p>
 <br><br><br>
 <p class="list"><p class="listtitle">4. 코드블럭 block</p></p>
 <p> </p> 
