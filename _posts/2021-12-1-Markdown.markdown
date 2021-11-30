@@ -51,8 +51,6 @@ date:   2021-12-1
 <br>
 <p class="gittext">` (Grave)문자를 입력해서 본문의 내용중 코드강조 처리 가능</p>   
 <br>
-<p class="gittext">`<abbr>`요소를 대신 사용하십시오.</p>
-<br>
 <p class="picture"><img src="/assets/img/code.JPG" alt=""><p>
 <br><br><br>
 <p class="list"><p class="listtitle">4. 코드블럭 block</p></p>
@@ -73,6 +71,7 @@ date:   2021-12-1
 <p class="gittext">***</p>
 <p class="gittext">*****</p>
 <p class="gittext">_ _ _</p>
+<p class="gittext">---------------------------------------</p>
 <br>
 <p class="picture"><img src="/assets/img/hr.JPG" alt=""><p>
 <br><br><br>
