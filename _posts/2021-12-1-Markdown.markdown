@@ -82,6 +82,6 @@ date:   2021-12-1
 <br><br><br>
 <p class="list"><p class="listtitle">7. 이미지 - images</p></p>
 <p> </p>
-<p class="gittext">![대체텍스트](이미지 URL o rPath "이미지설명")</p>
+<p class="gittext">![대체텍스트](이미지 URL or Path "이미지설명")</p>
 <p class="gittext">Link 와 문법이 비슷함, 앞에 !만 추가된 것</p>
 <br><br><br>
