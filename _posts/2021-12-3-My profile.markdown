@@ -4,6 +4,8 @@ title:  "My profile"
 date:   2021-12-3
 description: Let's see my profile & sites
 ---
+
+<br><br>
 <p class="picture"><img src="/assets/img/profile.jfif" alt=""></p>
 <p class="gittext">Hi! I'm Lee Bo Hynn</p>
 <p class="gittext">My major is software at Kookmin University</p>
