@@ -11,13 +11,12 @@ description: Gitbub page와 Google Analytics 연동 방법
 <br><br><br>
 <p class="intro">Gitbub page와 Google Analytics 연동 방법<p>
 <p class="list"><p class="listtitle">1. Google Analytics 계정 생성</p></p> 
-<br>
 <p class="list"><p class="listtitle">2. Google Analytics 속성 생성</p></p>
 <p> </p>
 <br>
 <p class="picture"><img src="/assets/img/1.JPG" alt=""><p>
 <p class="gittext">속성 열에서 속성만들기 클릭</p>
-<br><br><br>
+<br><br><br><br><br>
 <p class="picture"><img src="/assets/img/2.JPG" alt=""></p>
 <p class="gittext">속성 이름과 시간대, 통화 입력</p>
 <br><br><br><br><br>
@@ -38,15 +37,15 @@ description: Gitbub page와 Google Analytics 연동 방법
 <p class="list"><p class="listtitle">4. 추적 ID 얻기</p></p>
 <p class="gittext">1)추적 ID로 G-를 얻고싶다면?</p>
 <p class="picture"><img src="/assets/img/5.JPG" alt=""><p>
-<br><br><br>
 <p class="gittext">속성 열에서 데이터 스트림을 입력한 후 생성하면</p>
+<br><br><br><br>
 <p class="picture"><img src="/assets/img/7.JPG" alt=""><p>
 <p class="gittext">속성 열 데이터 스트림에서 G- 확인, 복사하기</p>
 <p> </p>
-<br><br><br><br>
+<br><br><br><br><br>
 <p class="gittext">2)추적 ID로 UA-를 얻고싶다면?</p>
-<p class="gittext">속성 열 데이터 스트림에서</p>
 <p class="picture"><img src="/assets/img/6.JPG" alt=""></p>
+<p class="gittext">속성 열 데이터 스트림에서</p>
 <p class="gittext">추적 ID UA- 확인, 복사하기</p>
 <p> </p>
 <br><br><br><br>
@@ -54,7 +53,7 @@ description: Gitbub page와 Google Analytics 연동 방법
 <p class="picture"><img src="/assets/img/config.JPG" alt=""></p>
 <p class="gittext">요구되는 형식에 맞춰 google_analytics 부분을 수정</p>
 <p> </p>
-<br><br><br><br>
+<br><br><br><br><br>
 <p class="list"><p class="listtitle">연동 완료</p></p>
 <p class="picture"><img src="/assets/img/8.JPG" alt=""></p>
 <br><br><br><br>
