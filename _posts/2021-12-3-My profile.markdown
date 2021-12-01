@@ -17,8 +17,8 @@ description: Let's see my profile & sites
 <p class="listtitle">Below are the sites I run</p>
 <br><br>
 <a href="https://www.instagram.com/250b_/" targe="_blank">
-    <p>
-        <img class="picture" src="/assets/img/instagram.JPG" alt="" >
+    <p class="picture">
+        <img src="/assets/img/instagram.JPG" alt="" >
     </p>
 </a>
 <p class="gittext">it's my instagram</p>
@@ -26,8 +26,8 @@ description: Let's see my profile & sites
 <p class="gittext">I use this SNS most often</p>
 <br><br><br><br><br>
 <a href="https://blog.naver.com/bohhh_" targe="_blank">
-    <p>
-        <img class="picture" src="/assets/img/blog.JPG" alt="" >
+    <p class="picture">
+        <img src="/assets/img/blog.JPG" alt="" >
     </p>
 </a>
 <p class="gittext">it's my naver blog</p>
@@ -36,8 +36,8 @@ description: Let's see my profile & sites
 <p class="gittext">I recently posted a diary in November</p>
 <br><br><br><br><br>
 <a href="https://velog.io/@bohhh_" targe="_blank">
-    <p>
-        <img class="picture" src="/assets/img/velog.JPG" alt="" >
+    <p class="picture">
+        <img src="/assets/img/velog.JPG" alt="" >
     </p>
 </a>
 <p class="gittext">it's my velog</p>
@@ -45,8 +45,8 @@ description: Let's see my profile & sites
 <p class="gittext">It is being used for club activities</p> 
 <br><br><br><br><br>
 <a href="https://github.com/" targe="_blank">
-    <p>
-        <img class="picture" src="/assets/img/githubprofile.JPG" alt="" >
+    <p class="picture">
+        <img src="/assets/img/githubprofile.JPG" alt="" >
     </p>
 </a>
 <p class="gittext">it's my github</p>
