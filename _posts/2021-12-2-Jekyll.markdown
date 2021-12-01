@@ -38,7 +38,7 @@ description: Jekyll이란?/디렉토리 구조
   </tr>
   <tr>
     <td>site</td>
-    <td>JIKILL의 변환을 마친 파일들이 들어가는 DEFAULT 디렉토리</td>
+    <td>JIKILL의 변환을 마친 파일들이 들어가는 defualt 디렉토리</td>
   </tr>
   <tr>
     <td>sass</td>
