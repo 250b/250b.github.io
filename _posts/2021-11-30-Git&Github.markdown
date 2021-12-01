@@ -3,7 +3,10 @@ layout: post
 title:  "Git & Github"
 date:   2021-11-30
 image: keyboard.gif
+description: Git이란?/Github이란?/Github 사용해보기!/Branch란?
 ---
+<p>                                                                                      
+</p>
 <br><br>
 <p class="intro">Git이란?<p>
 <p class="gittext">Git은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에</p>

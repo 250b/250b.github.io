@@ -2,11 +2,12 @@
 layout: post
 title:  "Markdown"
 date:   2021-12-1
+description: Markdown이란?/Markdown 문법
 ---
 
 <br><br>
 <p class="intro">Markdown이란?<p>
-<p class="gittext">Markdown은 텍스트 기반의 마크업언어로</p>
+<p class="gittext">텍스트 기반의 마크업언어로</p>
 <p class="gittext">쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능</p>
 <p class="gittext">특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여</p>
 <p class="gittext">웹에서도 보다 빠르게 컨텐츠를 작성하고 보다 직관적으로 인식할 수 있음</p>
