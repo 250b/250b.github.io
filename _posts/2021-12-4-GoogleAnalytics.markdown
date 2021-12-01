@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Analytic"
-date:   2014-12-10
+date:   2021-12-4
 description: Gitbub page와 Google Analytics 연동 방법
 ---
 
