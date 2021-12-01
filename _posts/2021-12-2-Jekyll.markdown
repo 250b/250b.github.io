@@ -23,7 +23,7 @@ description: Jekyll이란?/디렉토리 구조
 <p class="rmx">.</p>
 <br>
 <p class="intro">디렉토리 구조<p>
-<table cellspacing="3">
+<table cellspacing="5">
   <tr>
     <td>include</td>
     <td>재사용을 위한 파일들을 담는 디렉토리로, 포스트나 레이아웃을 쉽게 삽입할 수 있다</td>
