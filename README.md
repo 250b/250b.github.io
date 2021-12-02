@@ -44,6 +44,8 @@ _위의 과정을 통해 Jekyll 환경을 구성함_
 
 
 ### _3. 테마 입히기_
+
+
 ![theme2](/theme1.JPG)
 _http://jekyllthemes.org/_
 
