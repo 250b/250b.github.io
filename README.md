@@ -1,8 +1,8 @@
 ![CUTE](/preview.jpg)
 # _MY GITHUB PAGE_250b_
-###### _유레카 프로젝트 수업을 통해 만든 깃헙 블로그_
+#### _유레카 프로젝트 수업을 통해 만든 깃헙 블로그_
 ---
-### _Build 과정_
+## _Build 과정_
 - _Github계정 & 원격/로컬 Repository 생성하기_
 - _Jekyll 설치하기_
 - _테마 입히기_
@@ -11,14 +11,14 @@
 - _댓글 기능 추가하기_
 - _Google Analytics 추가하기_
 ---
-##### _1. Github계정 & 원격/로컬 Repository 생성하기_
-_먼저 Git을 설치_
-_그 다음 Github 계정을 생성해야 하지만_
+### _1. Github계정 & 원격/로컬 Repository 생성하기_
+_먼저 Git을 설치_  
+_그 다음 Github 계정을 생성해야 하지만_  
 _기존에 쓰던 Github 계정이 있기 때문에 따로 생성하진 않음_
 
 
-_Github Page를 만들 것이기 때문에 Repository name을_
-_<username.github.io>로 지정해 Repository를 하나 생성_
+_Github Page를 만들 것이기 때문에 Repository name을_  
+_<username.github.io>로 지정해 Repository를 하나 생성_  
 _내 username은 250b 이기 때문에 Repository name을 '250b.github.io'로 지정함_
 
 _`clone` 명령어를 통해 원격저장소와 로컬저장소 연결_
@@ -26,7 +26,7 @@ _`clone` 명령어를 통해 원격저장소와 로컬저장소 연결_
 _https://250b.github.io/blog/Git&Github/_
 ㄴ보다 자세한 과정과 사진은 위 Post에 포함되어있음
 (+ Git & Github에 대한 설명, Git 이용방법)
-##### _Jekyll 설치하기_
+### _Jekyll 설치하기_
 _https://rubyinstaller.org/downloads/_
 _위 페이지에서 윈도우용 루비 + 개발자킷(DevKit) 설치 프로그램을 다운로드 후 설치_
 _루비 설치가 정상적으로 완료되면, Start Command Prompt with Ruby를 실행_
@@ -39,7 +39,7 @@ _` jekyll new .` 를 입력해 현재 디렉토리 내부에 블로그 파일 �
 _` jekyll serve` 를 입력해 지킬 실행_
 
 _위의 과정을 통해 Jekyll 환경을 구성함_
-##### _테마 입히기_
+### _테마 입히기_
 ![theme2](/theme1.JPG)
 _http://jekyllthemes.org/_
 ![theme2](/theme2.JPG)
@@ -51,7 +51,7 @@ _테마 링크로 이동해 ZIP으로 다운_
 ![folder](/folder.JPG)
 _ZIP내부 파일을 모두 복사해 250b.github.io 폴더에 넣어 덮어씌움_
 
-##### _테마와 Post 수정하기_
+### _테마와 Post 수정하기_
 ![config](/config.JPG)
 _config.yml의 title 을 수정함으로써 페이지의 제목을 BORI'S BLOG로 바꿨음
 navigation, social 부분 또한 적절하게 수정해 내 정보로 바꿔 넣었음
