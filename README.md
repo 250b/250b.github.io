@@ -45,14 +45,14 @@ _위의 과정을 통해 Jekyll 환경을 구성함_
 
 ### _3. 테마 입히기_
 ![theme2](/theme1.JPG)
-_http://jekyllthemes.org/_  
+_http://jekyllthemes.org/_
 
 
 ![theme2](/theme2.JPG)
-_https://jekyllthemes.io/free_  
+_https://jekyllthemes.io/free_
 
 
-_notion에 올려주신 두 사이트에서 마음에 드는 테마를 찾음_  
+_수업 notion의 두 사이트에서 마음에 드는 테마 선택_  
 _테마 링크로 이동해 ZIP으로 다운_
 
 
@@ -62,7 +62,7 @@ _ZIP내부 파일을 모두 복사해 250b.github.io 폴더에 넣어 덮어씌�
 
 ### _4. 테마와 Post 수정하기_
 ![config](/config.JPG)  
-_config.yml의 title 을 수정함으로써 페이지의 제목을 BORI'S BLOG로 바꿨음
+_config.yml의 title 을 수정함으로써 페이지의 제목을 BORI'S BLOG로 바꿨음  
 navigation, social 부분 또한 적절하게 수정해 내 정보로 바꿔 넣었음  
 
 
