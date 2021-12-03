@@ -1,4 +1,4 @@
-![CUTE](/img/preview.jpg)
+![CUTE](/readme_img/preview.jpg)
 # _MY GITHUB PAGE_250b_
 #### _유레카 프로젝트 수업을 통해 만든 깃헙 블로그_
 ---
@@ -80,7 +80,7 @@ _각 post 파일에 html 형식으로 글 작성_
 _assets/css 폴더의 style.css를 수정해 여러 post의 디자인, 배치 조정_  
 
 
-![modify](/img/modify.JPG)  
+![modify](/readme_img/modify.JPG)  
 
 ### _5. favicon 수정하기_
 _favicon이란?_
@@ -88,7 +88,7 @@ _즐겨찾기(favorites)와 아이콘(icon)의 합성어로,_
 _주소창에 조그맣게 표시되는 아이콘_  
 
 
-![fav](/img/fav.JPG)  
+![fav](/readme_img/fav.JPG)  
 _원하는 사진을 찾아 .ico로 변환한 후_
 _파일 이름을 favicon으로 바꾸고_  
 _assets/img에 넣어 기존의 것과 교체_  
@@ -126,15 +126,15 @@ _본문의 Universl Embed Code 클릭_
 _하단 코드 복사 (코드에 Example이 아닌 자신의 Website Name이 들어가있는지 확인)_  
 _(사진은 강의자료 참고)_
 
-![config](/img/config.JPG)  
+![config](/readme_img/config.JPG)  
 *_config.yml 파일을 열어 위와 같이 수정*  
 
-![layout](/img/layout.JPG)  
+![layout](/readme_img/layout.JPG)  
 *_layouts/post.html 을 열어 복사해둔 코드 붙여넣기(테마마다 다를 수 있음)*  
 _복사한 코드가 강의 자료의 코드와 달라 참고해 수정함_  
 
 
-![comments](/img/comments.JPG)  
+![comments](/readme_img/comments.JPG)  
 _댓글 기능을 추가하고 싶은 post의 파일에 comments: true 설정을 추가_  
 
 
