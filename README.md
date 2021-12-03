@@ -64,24 +64,24 @@ _ZIP내부 파일을 모두 복사해 250b.github.io 폴더에 넣어 덮어씌�
 
 ### _4. 테마와 Post 수정하기_
 ![config](/config.JPG)  
-_config.yml의 title 을 수정함으로써 페이지의 제목을 BORI'S BLOG로 바꿈_  
+*_config.yml의 title 을 수정함으로써 페이지의 제목을 BORI'S BLOG로 바꿈*   
 _navigation, social 부분 또한 적절하게 수정_
 
 
 ![header](/header.JPG)  
-_includes 폴더의 header 파일에서 불필요한 header는 없애고 내 github과 velog로 교체_
+*_includes 폴더의 header 파일에서 불필요한 header는 없애고 내 github과 velog로 교체*
 
 
 ![post](/post.JPG)  
-각 post 파일에 html 형식으로 글 작성_
+_각 post 파일에 html 형식으로 글 작성_
 
 
 ![posts](/posts.JPG)  
-_작성한 post 파일들을 _post 폴더에 넣음_
+*_작성한 post 파일들을 _post 폴더에 넣음*
 
 
 ![img](/img.JPG)  
-_post 구성에 쓰인 사진들은 기존 테마에서와 같게 assets/img 폴더에 담음_
+*_post 구성에 쓰인 사진들은 기존 테마에서와 같게 assets/img 폴더에 담음*
 
 
 ![css](/css.JPG)  
