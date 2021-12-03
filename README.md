@@ -77,8 +77,10 @@ _각 post 파일에 html 형식으로 글 작성_
 *_post 구성에 쓰인 사진들은 assets/img 폴더에 담음*  
 
 
-_assets/css 폴더의 style.css를 수정해 여러 post의 디자인, 배치 조정_
+_assets/css 폴더의 style.css를 수정해 여러 post의 디자인, 배치 조정_  
 
+
+![modify](/modify.JPG)  
 
 ### _5. favicon 수정하기_
 _favicon이란?_
@@ -86,6 +88,7 @@ _즐겨찾기(favorites)와 아이콘(icon)의 합성어로,_
 _주소창에 조그맣게 표시되는 아이콘_  
 
 
+![fav](/fav.JPG)  
 _원하는 사진을 찾아 .ico로 변환한 후_
 _파일 이름을 favicon으로 바꾸고_  
 _assets/img에 넣어 기존의 것과 교체_  
@@ -97,7 +100,7 @@ _https://disqus.com_
 _Disqus 가입_  
 
 _"I want to install Disqus on my site"_ 선택  
-_Website Name 기입 ( 나중에 필요하니 잘 기억해두기_  
+_Website Name 기입 ( 나중에 필요하니 잘 기억해두기)_  
 _나는 Git 계정 이름과 동일하게 250b로 지정함_  
 _Category 는 Tech로 설정_  
 _Create Site 클릭_  
@@ -127,7 +130,7 @@ _하단 코드 복사 (코드에 Example이 아닌 자신의 Website Name이 들
 *_config.yml 파일을 열어 위와 같이 수정*  
 
 ![layout](/layout.JPG)  
-*_layouts/post.html 을 열어 복사해둔 코드 붙여넣기(테마마다 다를 수 있음)*
+*_layouts/post.html 을 열어 복사해둔 코드 붙여넣기(테마마다 다를 수 있음)*  
 _복사한 코드가 강의 자료의 코드와 달라 참고해 수정함_  
 
 
