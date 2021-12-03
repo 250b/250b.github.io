@@ -81,7 +81,7 @@ _각 post 파일에 html 형식으로 글 작성_
 
 
 ![img](/img.JPG)  
-*_post 구성에 쓰인 사진들은 기존 테마에서와 같게 assets/img 폴더에 담음*
+*_post 구성에 쓰인 사진들은 assets/img 폴더에 담음*
 
 
 ![css](/css.JPG)  
