@@ -124,7 +124,7 @@ _Disqus Home의 상단 Admin 클릭_
 _installing Disqus 클릭_  
 _본문의 Universl Embed Code 클릭_  
 _하단 코드 복사 (코드에 Example이 아닌 자신의 Website Name이 들어가있는지 확인)_  
-
+_(사진은 강의자료 참고)_
 
 ![config](/config.JPG)  
 *_config.yml 파일을 열어 위와 같이 수정*  
@@ -136,6 +136,7 @@ _복사한 코드가 강의 자료의 코드와 달라 참고해 수정함_
 
 ![comments](/comments.JPG)  
 _댓글 기능을 추가하고 싶은 post의 파일에 comments: true 설정을 추가_  
+
 
 
 ### _7. Google Analytics 추가하기_
