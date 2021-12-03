@@ -103,6 +103,6 @@ _파일 이름을 favicon으로 바꾸고 assets/img에 넣어 기존의 것과 
 
 
 ### _7. Google Analytics 추가하기_
-_https://250b.github.io/blog/GoogleAnalytics/_
+_https://250b.github.io/blog/GoogleAnalytics/_  
 _ㄴ자세한 과정과 사진이 위 post에 포함되어있음_  
 _(추적 ID로 UA-형식이 필요했기 때문에 그에 따른 방법으로 진행함)_
