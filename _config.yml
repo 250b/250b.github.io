@@ -1,7 +1,7 @@
 title: BORI'S BLOG
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://long-haul.netlify.app
+url: http://250b.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -22,6 +22,7 @@ social:
   instagram: 250b_
 
 google_analytics: "UA-214048473-1"
-
-disqus:
-    shortname: brianmaierjr
+comment:
+  provider: "disqus"
+  disqus:
+    shortname: "250b"

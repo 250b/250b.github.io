@@ -3,6 +3,7 @@ layout: post
 title:  "Google Analytics"
 date:   2021-12-4
 description: Gitbub page와 Google Analytics 연동 방법
+comments: true
 ---
 
 <br><br>

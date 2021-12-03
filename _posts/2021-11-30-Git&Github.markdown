@@ -4,6 +4,7 @@ title:  "Git & Github"
 date:   2021-11-30
 image: keyboard.gif
 description: Git이란?/Github이란?/Github 사용해보기!/Branch란?
+comments: true
 ---
 
 <br><br>

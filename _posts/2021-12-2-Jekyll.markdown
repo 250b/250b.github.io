@@ -3,6 +3,7 @@ layout: post
 title:  "Jekyll"
 date:   2021-12-2
 description: Jekyll이란?/디렉토리 구조
+comments: true
 ---
 
 <br><br>
