@@ -64,25 +64,45 @@ _ZIP내부 파일을 모두 복사해 250b.github.io 폴더에 넣어 덮어씌�
 
 ### _4. 테마와 Post 수정하기_
 ![config](/config.JPG)  
-_config.yml의 title 을 수정함으로써 페이지의 제목을 BORI'S BLOG로 바꿈  
-navigation, social 부분 또한 적절하게 수정
+_config.yml의 title 을 수정함으로써 페이지의 제목을 BORI'S BLOG로 바꿈_  
+_navigation, social 부분 또한 적절하게 수정_
 
 
 ![header](/header.JPG)  
-_includes 폴더의 header 파일에서 불필요한 header는 없애고 내 github과 velog로 교체
+_includes 폴더의 header 파일에서 불필요한 header는 없애고 내 github과 velog로 교체_
 
 
 ![post](/post.JPG)  
-각 post 파일에 html 형식으로 글 작성
+각 post 파일에 html 형식으로 글 작성_
 
 
 ![posts](/posts.JPG)  
-작성한 post 파일들을 _post 폴더에 넣음
+_작성한 post 파일들을 _post 폴더에 넣음_
 
 
 ![img](/img.JPG)  
-post 구성에 쓰인 사진들은 기존 테마에서와 같게 assets/img 폴더에 담음
+_post 구성에 쓰인 사진들은 기존 테마에서와 같게 assets/img 폴더에 담음_
 
 
 ![css](/css.JPG)  
-assets/css 폴더의 style.css를 수정해 여러 post의 디자인, 배치 조정.  
+_assets/css 폴더의 style.css를 수정해 여러 post의 디자인, 배치 조정_
+
+
+### _5. favicon 수정하기_
+_favicon이란?_
+_즐겨찾기(favorites)와 아이콘(icon)의 합성어로,_
+_주소창에 조그맣게 표시되는 아이콘_
+
+
+![fav](/fav.JPG)
+_원하는 사진을 찾아 .ico로 변환한 후_
+_파일 이름을 favicon으로 바꾸고 assets/img에 넣어 기존의 것과 교체_
+
+
+### _6. 댓글 기능 추가하기_
+
+
+### _7. Google Analytics 추가하기_
+_https://250b.github.io/blog/GoogleAnalytics/_
+_ㄴ자세한 과정과 사진이 위 post에 포함되어있음_  
+_(추적 ID로 UA-형식이 필요했기 때문에 그에 따른 방법으로 진행함)_
