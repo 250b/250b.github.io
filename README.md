@@ -77,7 +77,7 @@ _각 post 파일에 html 형식으로 글 작성_
 
 
 ![posts](/posts.JPG)  
-*_작성한 post 파일들을 _post 폴더에 넣음*
+*작성한 post 파일들을 _post 폴더에 넣음*
 
 
 ![img](/img.JPG)  
@@ -110,6 +110,6 @@ _(추적 ID로 UA-형식이 필요했기 때문에 그에 따른 방법으로 �
 -----  
 
 
-### _!250b.github.io 폴더 내부에서 일어난 변화는_  
 ### _https://250b.github.io/blog/Git&Github/_  
-### _위 링크에 적힌 방식처럼 Git에 commit하고, push까지 해야 페이지에 적용됨!_
+### _위 링크에 적힌 방식처럼 Git에 commit하고, push해_
+### _250b.github.io 파일 내부의 변화를 페이지에 적용시킴_
