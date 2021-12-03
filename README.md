@@ -105,4 +105,9 @@ _파일 이름을 favicon으로 바꾸고 assets/img에 넣어 기존의 것과 
 ### _7. Google Analytics 추가하기_
 _https://250b.github.io/blog/GoogleAnalytics/_  
 _ㄴ자세한 과정과 사진이 위 post에 포함되어있음_  
-_(추적 ID로 UA-형식이 필요했기 때문에 그에 따른 방법으로 진행함)_
+_(추적 ID로 UA-형식이 필요했기 때문에 그에 따른 방법으로 진행함)_  
+
+
+### _!250b.github.io 폴더 내부에서 일어난 변화는_  
+### _https://250b.github.io/blog/Git&Github/_  
+### _위 링크에 적힌 방식처럼 Git에 commit하고, push까지 해야 페이지에 적용됨!_
