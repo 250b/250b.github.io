@@ -46,61 +46,93 @@ _위의 과정을 통해 Jekyll 환경을 구성함_
 ### _3. 테마 입히기_  
 
 
-![theme2](/theme1.JPG)
-_http://jekyllthemes.org/_
+_http://jekyllthemes.org/_  
 
 
-![theme2](/theme2.JPG)
 _https://jekyllthemes.io/free_
 
 
 _수업 notion의 두 사이트에서 마음에 드는 테마 선택_  
-_테마 링크로 이동해 ZIP으로 다운_
+_테마 링크로 이동해 ZIP으로 다운_  
 
 
-![folder](/folder.JPG)  
 _ZIP내부 파일을 모두 복사해 250b.github.io 폴더에 넣어 덮어씌움_
 
 
 ### _4. 테마와 Post 수정하기_
-![config](/config.JPG)  
+
 *_config.yml의 title 을 수정함으로써 페이지의 제목을 BORI'S BLOG로 바꿈*   
-_navigation, social 부분 또한 적절하게 수정_
+_navigation, social 부분 또한 적절하게 수정_  
 
 
-![header](/header.JPG)  
-*_includes 폴더의 header 파일에서 불필요한 header는 없애고 내 github과 velog로 교체*
+*_includes 폴더의 header 파일에서 불필요한 header는 없애고 내 github과 velog로 교체*  
 
 
-![post](/post.JPG)  
-_각 post 파일에 html 형식으로 글 작성_
+_각 post 파일에 html 형식으로 글 작성_  
 
 
-![posts](/posts.JPG)  
-*작성한 post 파일들을 _post 폴더에 넣음*
+*작성한 post 파일들을 _post 폴더에 넣음*  
 
 
-![img](/img.JPG)  
-*_post 구성에 쓰인 사진들은 assets/img 폴더에 담음*
+*_post 구성에 쓰인 사진들은 assets/img 폴더에 담음*  
 
 
-![css](/css.JPG)  
 _assets/css 폴더의 style.css를 수정해 여러 post의 디자인, 배치 조정_
 
 
 ### _5. favicon 수정하기_
 _favicon이란?_
 _즐겨찾기(favorites)와 아이콘(icon)의 합성어로,_
-_주소창에 조그맣게 표시되는 아이콘_
+_주소창에 조그맣게 표시되는 아이콘_  
 
 
-![fav](/fav.JPG)  
 _원하는 사진을 찾아 .ico로 변환한 후_
 _파일 이름을 favicon으로 바꾸고_  
 _assets/img에 넣어 기존의 것과 교체_  
 
 
-### _6. 댓글 기능 추가하기_
+### _6. 댓글 기능 추가하기_  
+
+_https://disqus.com_  
+_Disqus 가입_  
+
+_"I want to install Disqus on my site"_ 선택  
+_Website Name 기입 ( 나중에 필요하니 잘 기억해두기_  
+_나는 Git 계정 이름과 동일하게 250b로 지정함_  
+_Category 는 Tech로 설정_  
+_Create Site 클릭_  
+
+_여러 버전 중 Basic을 선택, 하단 Subscribe Now 버튼 클릭_  
+_Jekyll을 사용해 블로그를 만들었으므로, 많은 플랫폼 중 Jekyll 선택_  
+
+
+_configure 버튼 클릭_  
+_이전의 Website Name, Website URL, 입력_  
+_나는 250b, https://250b.github.io 입력함_  
+_Next 버튼 클릭_  
+
+_두가지 선택사항이 나오는데 원하는 정책으로 선택_
+_나는 Balanced를 선택했음_  
+_Complete Setup 버튼 클릭_  
+
+
+_해당 Website Name으로 지정되게 이동_
+_Disqus Home의 상단 Admin 클릭_
+_installing Disqus 클릭_  
+_본문의 Universl Embed Code 클릭_  
+_하단 코드 복사 (코드에 Example이 아닌 자신의 Website Name이 들어가있는지 확인)_  
+
+
+![config](/config.jpg)
+*_config.yml 파일을 열어 위와 같이 수정*  
+
+![layout](/layout.jpg)
+*_layouts/post.html 을 열어 복사해둔 코드 붙여넣기(테마마다 다를 수 있음)*
+_복사한 코드가 강의 자료의 코드와 달라 참고해 수정함_  
+
+
+![comments](/comments.jpg)
+_댓글 기능을 추가하고 싶은 post의 파일에 comments: true 설정을 추가_  
 
 
 ### _7. Google Analytics 추가하기_
