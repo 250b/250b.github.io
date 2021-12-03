@@ -126,7 +126,7 @@ _본문의 Universl Embed Code 클릭_
 _하단 코드 복사 (코드에 Example이 아닌 자신의 Website Name이 들어가있는지 확인)_  
 _(사진은 강의자료 참고)_
 
-![config](img/config.JPG)  
+![config](/img/config.JPG)  
 *_config.yml 파일을 열어 위와 같이 수정*  
 
 ![layout](/img/layout.JPG)  
