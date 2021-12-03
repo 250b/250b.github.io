@@ -11,7 +11,7 @@
 - _댓글 기능 추가하기_
 - _Google Analytics 추가하기_
 ---
-### _1. Github계정 & 원격/로컬 Repository 생성하기_
+### ***1. Github계정 & 원격/로컬 Repository 생성하기***
 _먼저 Git을 설치_  
 _그 다음 Github 계정을 생성해야 하지만_  
 _기존에 쓰던 Github 계정이 있기 때문에 따로 생성하진 않음_
