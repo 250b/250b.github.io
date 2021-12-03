@@ -94,7 +94,7 @@ _즐겨찾기(favorites)와 아이콘(icon)의 합성어로,_
 _주소창에 조그맣게 표시되는 아이콘_
 
 
-![fav](/fav.JPG)
+![fav](/fav.JPG)  
 _원하는 사진을 찾아 .ico로 변환한 후_
 _파일 이름을 favicon으로 바꾸고 assets/img에 넣어 기존의 것과 교체_
 
