@@ -122,7 +122,7 @@ _Complete Setup 버튼 클릭_
 _해당 Website Name으로 지정되게 이동_
 _Disqus Home의 상단 Admin 클릭_
 _installing Disqus 클릭_  
-_본문의 Universl Embed Code 클릭_  
+_본문의 Universal Embed Code 클릭_  
 _하단 코드 복사 (코드에 Example이 아닌 자신의 Website Name이 들어가있는지 확인)_  
 _(사진은 강의자료 참고)_
 
