@@ -123,15 +123,15 @@ _본문의 Universl Embed Code 클릭_
 _하단 코드 복사 (코드에 Example이 아닌 자신의 Website Name이 들어가있는지 확인)_  
 
 
-![config](/config.jpg)
+![config](/config.JPG)  
 *_config.yml 파일을 열어 위와 같이 수정*  
 
-![layout](/layout.jpg)
+![layout](/layout.JPG)  
 *_layouts/post.html 을 열어 복사해둔 코드 붙여넣기(테마마다 다를 수 있음)*
 _복사한 코드가 강의 자료의 코드와 달라 참고해 수정함_  
 
 
-![comments](/comments.jpg)
+![comments](/comments.JPG)  
 _댓글 기능을 추가하고 싶은 post의 파일에 comments: true 설정을 추가_  
 
 
